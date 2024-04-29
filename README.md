@@ -2,7 +2,7 @@
     <img width="725rem" src="https://servidor-estaticos-ten.vercel.app/" alt="imagem">
 </div>
 
-> Para ver o projeto rodando você pode acessar este [Link]().
+> Para ver o projeto rodando você pode acessar este [Link](https://dev-store-xi.vercel.app/).
 
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas da Rocketseat 
